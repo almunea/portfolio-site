@@ -1,16 +1,15 @@
 
 
 
-.container{
-    font-family: 'Lato', sans-serif;
-    color: #2d3c49
-;
+.container {
+    font-family: "Lato", sans-serif;
+    color: #2d3c49;
     font-weight: 300;
 
 }
 
 .text-muted {
-    color: #BCBBBB;
+    color: #bcbbbb;
 }
 
 .text-thin {
@@ -24,4 +23,13 @@
 .title-logo {
     margin-top: 20px;
     margin-left: 10px;
+    height: 10%;
+    width: 10%;
+}
+
+.hr {
+    height:3px;
+    border:none;
+    color:#7d97ad;
+    background-color:#7d97ad;
 }
